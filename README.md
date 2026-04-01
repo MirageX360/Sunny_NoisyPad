@@ -26,7 +26,7 @@ Here is my schematic
 Placeholder
 
 ## CAD
-![Model](noisypad_model.png)
+![Model](images/noisypad_model.png)
 
 ## Production Files: In the production folder
 
