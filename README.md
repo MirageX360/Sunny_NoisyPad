@@ -19,14 +19,14 @@ Mainly used for video editing and CAD designing
 ## PCB
 
 ### Schematic
-![Schematic](Suuny_NoisyPad/images/noisypad_schematic.png)
+![Schematic](Sunny_NoisyPad/images/noisypad_schematic.png)
 Here is my schematic
 
 ### PCB Layout
 Placeholder
 
 ## CAD
-![Model](Suuny_NoisyPad/images/noisypad_model.png)
+![Model](Sunny_NoisyPad/images/noisypad_model.png)
 
 ## Production Files: In the production folder
 
